@@ -1,3 +1,4 @@
 .vscode
 .idea
 .lando.yml
+db.sqlite
